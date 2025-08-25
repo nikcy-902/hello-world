@@ -1,2 +1,1 @@
-# hello-world
-"This repository is for practicing the GitHub Flow."
+My name is Nikhil, and I am currently pursuing my Master’s degree in Computer Science at Concordia University. I have a strong passion for technology and enjoy exploring modern trends in computing, software development, and networking concepts. Alongside academics, I am also enthusiastic about sports, which helps me maintain a balanced and disciplined lifestyle. I believe in continuous learning, teamwork, and applying my skills to solve real-world problems effectively.
